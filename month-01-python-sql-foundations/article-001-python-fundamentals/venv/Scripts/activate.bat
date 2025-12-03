@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=D:\Shamanth_Krishna\Other\ai-data-engineer-roadmap\month-01-python-sql-foundations\article-001-python-fundamentals\venv"
+set "VIRTUAL_ENV=D:\SKB\Courses\ai-data-engineer-roadmap\month-01-python-sql-foundations\article-001-python-fundamentals\venv"
 
 if not defined PROMPT set PROMPT=$P$G
 

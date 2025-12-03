@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'D:\Shamanth_Krishna\Other\ai-data-engineer-roadmap\month-01-python-sql-foundations\article-001-python-fundamentals\venv'
+set -gx VIRTUAL_ENV 'D:\SKB\Courses\ai-data-engineer-roadmap\month-01-python-sql-foundations\article-001-python-fundamentals\venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
